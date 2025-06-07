@@ -10,9 +10,7 @@
   — Give me back my boilerplates —
 </div>
 
-<p style="font-size: 1.25rem; color: #c084fc; font-weight: 500; letter-spacing: 0.05em;">
-  Pick a starter project, skip the fluff, and get coding fast ⚡
-</p>
+<br>
 
 </div>
 
@@ -23,6 +21,10 @@ StackPack collection of curated starter templates to jumpstart your projects. It
 ---
 
 ## Starter Repositories
+<br>
+  Pick a starter project, skip the fluff, and get coding fast ⚡
+
+<br>
 
 | Repo Name                            | Description                                                        | Branches/Variants          | Status       |
 |------------------------------------|--------------------------------------------------------------------|---------------------------|--------------|
