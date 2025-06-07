@@ -28,7 +28,7 @@ StackPack collection of curated starter templates to jumpstart your projects. It
 
 | Repo Name                            | Description                                                        | Branches/Variants          | Status       |
 |------------------------------------|--------------------------------------------------------------------|---------------------------|--------------|
-| [react-vite-tailwind-typescript](https://github.com/devmunro/react-vite-tailwind-typescript) | Minimal React + Vite + Tailwind + TypeScript starter                | `main`, `dashboard` (coming soon), `auth` (coming soon) | Active       |
+| [react-typescript-vite-tailwind](https://github.com/devmunro/react-typescript-vite-tailwind) | Minimal React + Vite + Tailwind + TypeScript starter                | `main`, `dashboard` (coming soon), `auth` (coming soon) | Active       |
 | [next-tailwind-eslint-starter](https://github.com/devmunro/next-tailwind-eslint-starter)      | Next.js + Tailwind + ESLint configured starter                      | `main`                    | Coming Soon  |
 | [next-supabase-tailwind-starter](https://github.com/devmunro/next-supabase-tailwind-starter)  | Fullstack Next.js with Supabase Auth and Tailwind                  | `main`                    | Coming Soon  |
 | [node-express-api-starter](https://github.com/devmunro/node-express-api-starter)               | Node.js backend with Express, middleware, and DB setup             | `main`                    | Coming Soon  |

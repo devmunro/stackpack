@@ -10,7 +10,7 @@ const starterPacks = [
         "Lightning-fast React development with modern tooling and utility-first CSS framework.",
       icon: <Zap className="w-6 h-6" />,
       gradient: "from-pink-500 to-purple-600",
-      link: "https://github.com/devmunro/react-vite-tailwind",
+      link: "https://github.com/devmunro/react-typescript-vite-tailwind",
     },
     {
       title: "Next.js + TypeScript",
